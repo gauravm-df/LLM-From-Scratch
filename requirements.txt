@@ -1,0 +1,17 @@
+# ============================================================
+# CUSTOM LLM FROM SCRATCH - DEPENDENCY REQUIREMENTS
+# Compatible with: Linux (Ubuntu/Debian), macOS, Windows, Google Colab
+# ============================================================
+
+torch>=2.2.0
+transformers>=4.40.0
+tokenizers>=0.19.0
+datasets>=2.19.0
+trl>=0.8.6
+accelerate>=0.30.0
+fastapi>=0.111.0
+uvicorn>=0.29.0
+streamlit>=1.34.0
+pydantic>=2.7.0
+requests>=2.31.0
+
